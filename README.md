@@ -2,9 +2,10 @@
 
 Java‑разработчик с опытом создания масштабируемых веб‑приложений и микросервисных архитектур. Стремлюсь к написанию чистого, эффективного кода и постоянно изучаю новые технологии.
 
+## 💬 Всегда рад пообщаться 
 
-[![Email](https://img.shields.io/badge/Email-D44638?logo=gmail&logoColor=white)](mailto:ваш-email@example.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/ваш-telegram-канал)
+[![Email](https://img.shields.io/badge/Email-D44638?logo=gmail&logoColor=white)](mailto:ваш-email@example.com)
 
 ## 🛠️ Технологии 
 
